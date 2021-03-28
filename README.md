@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iliass373
 - 👀 I’m interested in Data Science, Data Mining, Python, Deep Learning, AI, SQL ...
 - 🌱 I’m currently learning Devops, Docker, Kubernets, Monitoring ( Grafana, Prometheus, InfluxDB ...) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Data Science, Web Scrapping, Devops, Odoo Project
+- 📫 How to reach me LinkedIn ( ILIASS BENDIDIA ) 
 
 <!---
 iliass373/iliass373 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
