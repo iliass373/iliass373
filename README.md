@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iliass373
-- 👀 I’m interested in DevOps & Cloud topics
-- 🌱 I’m currently learning Devops, Docker, Kubernets, CI/CD Jenkins, Travis, Ansible, Terraform && Monitoring ( Grafana, Prometheus, InfluxDB ...) 
+- 👀 I’m interested in AWS DevOps topics
+- 🌱 I’m currently learning Devops, Docker, Kubernets, CI/CD Jenkins, Gitlab CI, Ansible, Terraform, Shell, Python, Monitoring ( Grafana, Prometheus, InfluxDB ...) 
 - 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me LinkedIn ( ILIASS BENDIDIA ) 
 
