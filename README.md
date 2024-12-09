@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iliass373
 - 👀 I’m an AWS Solution Architect | DevSecOps
-- 🌱 I’m currently Working on tools : Docker, Kubernets, CI/CD Jenkins, Gitlab CI, Ansible, Terraform, Shell, Python, Monitoring ( Grafana, Prometheus, InfluxDB ...), Dynatrace, Circle CI, AWS Services ... 
 - 💞️ I’m looking to collaborate on Devops Projects
 
 <!---
